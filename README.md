@@ -2,6 +2,8 @@
 
 This simple react application covers basic fundamentals of React. And added bird names will be stored in your browser local storage.
 
+View the demo: https://react-birdmate.netlify.app/
+
 ![image](https://github.com/user-attachments/assets/6d64356b-4b3b-434b-bc27-ad87b00add20)
 
 
